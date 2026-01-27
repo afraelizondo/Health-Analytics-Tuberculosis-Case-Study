@@ -18,14 +18,6 @@ The project aims to prepare, analyze, and interpret tuberculosis case data in or
 
  - What proportion of cases corresponds to pulmonary versus extrapulmonary tuberculosis?
 
-## Data Visualization 
-
-<img width="550" height="482" alt="correlation_matrix" src="https://github.com/user-attachments/assets/a5093bd9-d7c3-433d-968e-9d0bc73d690a" />
-
-<img width="631" height="387" alt="scatter_plot" src="https://github.com/user-attachments/assets/a06e803c-4a77-4a5f-868e-6d20daa6a949" />
-
-<img width="716" height="424" alt="bar_chart" src="https://github.com/user-attachments/assets/4889a5be-5e95-45af-90bc-00dcc135e505" />
-
 ## Conclusions 
 
 The final incidence analysis indicates that while certain countries have achieved sustained reductions in tuberculosis cases, several regions continue to exhibit increasing or stagnant trends. This variability reflects differences in diagnostic capacity, access to treatment, and the effectiveness of epidemiological surveillance systems, underscoring the need for country-specific analysis and targeted interventions.
